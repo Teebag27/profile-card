@@ -9,6 +9,7 @@
   --primary-color: hsl(185, 75%, 39%);
   --secondary-color: hsl(227, 10%, 46%);
 }
+
 body {
   background-color: var(--primary-color);
   width: 1440px;
